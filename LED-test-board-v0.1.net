@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Josh/Desktop/DropbotKicad/LED-test-board-v0.1/LED-test-board-v0.1.sch)
-    (date "5/18/2018 9:57:19 AM")
+    (date "5/22/2018 2:58:16 PM")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -2014,7 +2014,7 @@
     (net (code 130) (name "Net-(C66-Pad1)")
       (node (ref P66) (pin 1))
       (node (ref C66) (pin 1)))
-    (net (code 131) (name LED_ANODE)
+    (net (code 131) (name LED_CATHODE)
       (node (ref C46) (pin 2))
       (node (ref C33) (pin 2))
       (node (ref C22) (pin 2))

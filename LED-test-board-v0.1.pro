@@ -1,4 +1,4 @@
-update=4/19/2018 4:55:15 PM
+update=5/22/2018 2:58:37 PM
 last_client=kicad
 [pcbnew]
 version=1
@@ -32,6 +32,8 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=library
@@ -66,6 +68,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=library/sci-bots
-[general]
-version=1

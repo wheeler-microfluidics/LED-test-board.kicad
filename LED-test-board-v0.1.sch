@@ -3029,7 +3029,7 @@ GND
 Text GLabel 5500 2825 0    60   Input ~ 0
 GND
 Text GLabel 3300 1300 1    60   Input ~ 0
-LED_ANODE
+LED_CATHODE
 Wire Wire Line
 	5500 1850 5500 1950
 Wire Wire Line
